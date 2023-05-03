@@ -68,3 +68,6 @@ sink = 9
 
 print("Максимальный поток в графе:", max_flow(graph, source, sink))
 ``` 
+Пример работы:
+
+![img_2.png](img_2.png)
